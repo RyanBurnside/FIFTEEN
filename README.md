@@ -7,7 +7,7 @@ DO NOT just copy and paste the contents. They contain special characters for Med
 
 For me on Linux this is $HOME/il
 
-Right Click the Medley Desktop select "Interlisp" in the EXEC option.
+Right Click the Medley Desktop and select "Interlisp" from the EXEC option.
 From there type in (LOAD "FIFTEEN.LISP") .
 Run the game by typing (START-FIFTEEN). You can optionally set the column and row count as parameters - (START-FIFTEEN 5 6) for example.
 

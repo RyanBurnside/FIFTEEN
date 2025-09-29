@@ -5,7 +5,7 @@ A sliding tile puzzle for Medley InterLisp: https://interlisp.org/
 To use this program simply save the files to a location which Medley can access.
 DO NOT just copy and paste the contents. They contain special characters for a different OS than the one you're on.
 
-For me on Linux this is /home/your name here/il/
+For me on Linux this is $HOME/il
 
 Right Click the Medley Desktop select "Interlisp" in the EXEC option.
 From there type in (LOAD "FIFTEEN.LISP") .

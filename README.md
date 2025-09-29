@@ -3,7 +3,7 @@ A sliding tile puzzle for Medley InterLisp: https://interlisp.org/
 
 
 To use this program simply save the files to a location which Medley can access.
-DO NOT just copy and paste the contents. They contain special characters for a Medley only.
+DO NOT just copy and paste the contents. They contain special characters for Medley only.
 
 For me on Linux this is $HOME/il
 
